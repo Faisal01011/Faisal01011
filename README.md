@@ -41,7 +41,7 @@ faisal@github:~$ echo $BUILD_PHILOSOPHY
 | **[LeafScan](https://github.com/Faisal01011/Leaf-Scan)** | Offline crop-disease image triage with on-device TensorFlow Lite inference, conservative uncertainty handling, and a durable field notebook. `React Native` `Expo` `TFLite` |
 | **[System Design Simulator](https://github.com/Faisal01011/system-design-simulator)** · **[live](https://system-design-simulator-flax.vercel.app)** | A 3D flight simulator for distributed systems: wire an architecture, inject traffic, and watch latency, queues, caches, and failures unfold. `React` `Three.js` `TypeScript` |
 | **[IONSTORM](https://github.com/Faisal01011/IONSTORM)** · **[play](https://ionstorm.vercel.app)** | A neon WebGPU arcade shooter with a WebGL2 fallback, seeded challenges, multi-phase bosses, offline PWA support, and optional cloud progression. `WebGPU` `JavaScript` `Supabase` |
-| **[Dream Architect](https://github.com/Faisal01011/dream-architect)** | A multiplayer emotional sandbox where shared memories alter the mood, lighting, and atmosphere of a persistent 3D world. `WebSocket` `Three.js` `TypeScript` |
+| **[Wild Roads](https://github.com/Faisal01011/wild-roads)** · **[play](https://wild-roads.vercel.app)** | A procedural 3D world with vehicle physics, wildlife AI, custom shaders, and adaptive browser performance. `Three.js` `GLSL` `TypeScript` |
 
 <details>
 <summary><code>./projects --more</code></summary>
@@ -49,7 +49,6 @@ faisal@github:~$ echo $BUILD_PHILOSOPHY
 
 | Repository | What I am exploring |
 | :--- | :--- |
-| **[Wild Roads](https://github.com/Faisal01011/wild-roads)** | Procedural 3D worlds, vehicle physics, wildlife AI, custom shaders, and adaptive browser performance. |
 | **[EcoMind](https://github.com/Faisal01011/ecomind)** | Voice capture, transcription, and semantic recall for private, searchable memories. |
 | **[Signal](https://github.com/Faisal01011/signal-speech-to-text)** | Self-hosted speech-to-text with Faster Whisper, timestamps, confidence, and persistent history. |
 | **[Sky Duel](https://github.com/Faisal01011/sky-duel)** | Multiplayer aerial combat with a Vite/TypeScript client and a Colyseus server. |
@@ -69,7 +68,7 @@ faisal@github:~$ echo $BUILD_PHILOSOPHY
       | DEV TOOLS     |         | APPLIED ML    |         | REAL-TIME     |
       |               |         |               |         | WORLDS        |
       | AutoApply     |         | LeafScan      |         | IONSTORM      |
-      | Repropack     |         | EcoMind       |         | Dream Arch.   |
+      | Repropack     |         | EcoMind       |         | Wild Roads    |
       +---------------+         | Signal        |         | SysDesign Sim |
                                 +---------------+         +---------------+
 ```
