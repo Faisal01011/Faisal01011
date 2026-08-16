@@ -1,13 +1,13 @@
 <div align="center">
 
 ```text
- mmmmmm   mm   mmmmm   mmmm    mm   m
- #        ##     #    #"   "   ##   #
- #mmmmm  #  #    #    "#mmm   #  #  #
- #       #mm#    #        "#  #mm#  #
- #      #    # mm#mm  "mmm#" #    # #mmmmm
-
-        AI SYSTEMS / DEV TOOLS / INTERACTIVE WORLDS
++--[ faisal@github ]----------------------------------+
+|                                                     |
+|  FAISAL FAYAZ                                       |
+|  AI systems / dev tools / interactive worlds        |
+|  mode: open source                                  |
+|                                                     |
++-----------------------------------------------------+
 ```
 
 ### Faisal Fayaz
