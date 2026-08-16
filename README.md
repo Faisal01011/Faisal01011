@@ -154,7 +154,7 @@ Voice-memory capture pairing FastAPI + Faster-Whisper transcription with Ollama-
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Faisal01011/Faisal01011/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <sub>👆 Contribution snake — auto-generates once the `snake.yml` GitHub Action is enabled on this repo</sub>
 
