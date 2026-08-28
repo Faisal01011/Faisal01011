@@ -17,6 +17,7 @@ I build software that is useful, inspectable, and a little unexpected.
 [![GitHub](https://img.shields.io/badge/GitHub-Faisal01011-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Faisal01011)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faisal--fayaz-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/faisal-fayaz)
 [![Open Source](https://img.shields.io/badge/mode-open_source-0d1117?style=flat-square&logo=opensourceinitiative&logoColor=3fb950)](#open-source--upstream)
+[![Profile visits](https://komarev.com/ghpvc/?username=Faisal01011&label=Profile+visits&color=0d1117&style=flat-square)](https://github.com/Faisal01011)
 
 </div>
 
